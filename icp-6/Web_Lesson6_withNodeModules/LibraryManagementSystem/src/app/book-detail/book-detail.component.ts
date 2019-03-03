@@ -34,6 +34,4 @@ export class BookDetailComponent implements OnInit {
           console.log(err);
         }
       );
-  }
-
-}
+  3
