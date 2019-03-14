@@ -26,10 +26,6 @@ router.post('/', function (req, res, next) {
   });
 });
 
-/* Update customer details */
-
-
-/* Delete customer record */
 
 /* UPDATE  */
 router.put('/:id', (req, res, next) => {
