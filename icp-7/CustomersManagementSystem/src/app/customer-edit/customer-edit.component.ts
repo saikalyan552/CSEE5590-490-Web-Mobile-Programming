@@ -55,7 +55,7 @@ export class CustomerEditComponent implements OnInit {
 
   onFormSubmit(form: NgForm) {
 
-      alert("erllo");
+      alert("error");
     // onFormSubmit(customerForm.value)
     this.api.updateCustomer(this.id, form)
       .subscribe(res => {
