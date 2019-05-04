@@ -245,14 +245,6 @@
       },
       "oauth_client": [
         {
-          "client_id": "499791304639-rhavaadipl2bn7nhnov3n0tqosqkg6fv.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.umkc.lab3",
-            "certificate_hash": "984f67979af5ec533ec9672d8cdec15cb7b22e37"
-          }
-        },
-        {
           "client_id": "499791304639-2eh8bf89jmriet427tgopkh40dl7bgqr.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
@@ -334,14 +326,6 @@
         }
       },
       "oauth_client": [
-        {
-          "client_id": "499791304639-vp2l4ejko8u4norgei63f2p6inmulvka.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.vijaya.firebase",
-            "certificate_hash": "984f67979af5ec533ec9672d8cdec15cb7b22e37"
-          }
-        },
         {
           "client_id": "499791304639-npfefagv8l0upcr868vbkusan8ata3f2.apps.googleusercontent.com",
           "client_type": 1,
